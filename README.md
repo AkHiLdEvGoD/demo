@@ -1,5 +1,5 @@
 # ABOUT
 This is my first Git Repository
 <br>
-Author - Akhil Dubey
+Author - Akhil Kumar Dubey
 
